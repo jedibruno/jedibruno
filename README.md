@@ -1,4 +1,41 @@
-### Hi there 👋
+### Hello!
+
+My name is Bruno Morassutti and I am an Information Systems undergraduate student. I have a previous background and experience in law and I'm used to translate technical issues to everyday language. I'm a enthusiast and open data activist, and currently a member of the brazilian chapter of [Open Knowledge Foundation](https://www.ok.org.br/) and [Fiquem Sabendo](https://fiquemsabendo.com.br/). I'm also an admin at [Dados Abertos .BR](https://t.me/dadosabertos), the brazilian open data community at Telegram.
+
+
+#### Projects I collaborate:
+- [Dados Abertos de Feira](https://github.com/DadosAbertosDeFeira)
+- [Dadosjusbr](https://github.com/dadosjusbr)
+- [Colaboradados](https://github.com/colaboradados)
+- [Diário Oficial](https://github.com/okfn-brasil/diario-oficial)
+- [Operação Seranata de Amor](https://github.com/okfn-brasil/serenata-de-amor)
+
+
+#### I'currently learning:
+- Java, Python, Git and SQL;
+- Set Theory and other mathematical topics applied to computation;
+- Information management and governance;
+
+
+#### Programming Skills:
+ <table style="width:100%">
+  <tr>
+    <th>Programming skills</th>
+    <th>Level(Newbie/Begginer/Adequate/Advanced/Fluent) </th>
+  </tr>
+  <tr>
+    <td>Java </td>
+    <td>Begginer </td>
+  </tr>
+  <tr>
+    <td>Python </td>
+    <td>Newbie </td>
+  </tr>
+  <tr>
+    <td>SQL </td>
+    <td>Newbie </td>
+  </tr>
+</table> 
 
 <!--
 **jedibruno/jedibruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
