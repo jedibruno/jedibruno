@@ -40,6 +40,12 @@ My name is Bruno Morassutti and I am an Information Systems undergraduate studen
   </tr>
 </table> 
 
+#### Academic Writings:
+
+- In case you are interested, you can read some of my thoughts about law and technology in my [masters' dissertation](http://tede2.pucrs.br/tede2/handle/tede/8794?mode=full). You can also check some of my other academic writings at [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1525958). 
+
+
+
 <!--
 **jedibruno/jedibruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
