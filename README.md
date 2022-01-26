@@ -12,6 +12,7 @@ My name is Bruno Morassutti and I am an Information Systems undergraduate studen
 - [Colaboradados](https://github.com/colaboradados)
 - [Diário Oficial](https://github.com/okfn-brasil/diario-oficial)
 - [Operação Seranata de Amor](https://github.com/okfn-brasil/serenata-de-amor)
+- [Wikilai](https://wikilai.fiquemsabendo.com.br/wiki/P%C3%A1gina_principal)
 
 
 #### I'currently learning:
@@ -44,7 +45,9 @@ My name is Bruno Morassutti and I am an Information Systems undergraduate studen
 
 - In case you are interested, you can read some of my thoughts about law and technology in my [masters' dissertation](http://tede2.pucrs.br/tede2/handle/tede/8794?mode=full). You can also check some of my other academic writings at [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1525958). 
 
+#### How to reach me
 
+- You can reach me by DM on my [Twitter](https://twitter.com/555112299jedi) or email: brunomoradv@gmail.com
 
 <!--
 **jedibruno/jedibruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
