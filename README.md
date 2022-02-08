@@ -43,7 +43,7 @@ My name is Bruno Morassutti and I am an Information Systems undergraduate studen
 
 #### Academic Writings:
 
-- In case you are interested, you can read some of my thoughts about law and technology in my [masters' dissertation](http://tede2.pucrs.br/tede2/handle/tede/8794?mode=full). You can also check some of my other academic writings at [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1525958). 
+- In case you are interested, you can read some of my thoughts about law and technology in my [masters' dissertation](http://tede2.pucrs.br/tede2/handle/tede/8794?mode=full). You can also check some of my other academic writings at [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1525958). Info about my academic carrer can be found [here](http://lattes.cnpq.br/0043841852796155).  
 
 #### How to reach me
 
