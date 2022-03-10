@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/bruno-schimitt-morassutti-7a0b5b180/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Twitter Badge](https://img.shields.io/badge/-Bruno-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/555112299jedi)
 
 
-My name is Bruno Morassutti and I am an Information Systems undergraduate student. I have a previous background and experience in law and I'm used to translate technical issues to everyday language. I'm a enthusiast and open data activist, and currently a member of the brazilian chapter of [Open Knowledge Foundation](https://www.ok.org.br/) and [Fiquem Sabendo](https://fiquemsabendo.com.br/). I'm also an admin at [Dados Abertos .BR](https://t.me/dadosabertos), the brazilian open data community at Telegram.
+My name is Bruno Morassutti and I am an Information Systems undergraduate student. I have a previous background and experience in law and I'm used to translate technical issues to everyday language. I'm a enthusiast and open data activist, and currently a board member of the brazilian chapter of [Open Knowledge Foundation](https://www.ok.org.br/) and [Fiquem Sabendo](https://fiquemsabendo.com.br/). I'm also an admin at [Dados Abertos .BR](https://t.me/dadosabertos), the brazilian open data community at Telegram.
 
 
 #### Projects I collaborate:
@@ -14,6 +14,11 @@ My name is Bruno Morassutti and I am an Information Systems undergraduate studen
 - [Operação Seranata de Amor](https://github.com/okfn-brasil/serenata-de-amor)
 - [Wikilai](https://wikilai.fiquemsabendo.com.br/wiki/P%C3%A1gina_principal)
 
+#### Legal areas in which I work
+- Administrative Law (citizen <> government relation issues)
+- Transparency and Data Protection Law 
+- Contracts and Tort Law
+- Consumer Law
 
 #### I'currently learning:
 - Java, Python, Git and SQL;
