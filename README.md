@@ -5,6 +5,8 @@
 
 My name is Bruno Morassutti and I am an Information Systems undergraduate student. I have a previous background and experience in law and I'm used to translate technical issues to everyday language. I'm a enthusiast and open data activist, and currently a board member of the brazilian chapter of [Open Knowledge Foundation](https://www.ok.org.br/) and [Fiquem Sabendo](https://fiquemsabendo.com.br/). I'm also an admin at [Dados Abertos .BR](https://t.me/dadosabertos), the brazilian open data community at Telegram.
 
+Nowadays I am also member of the federal government`s [Conselho da Transparência](https://www.gov.br/cgu/pt-br/assuntos/transparencia-publica/conselho-da-transparencia) which is an advisory board focused on improving Brazilian government transparency and accountability. I represent Fiquem Sabendo as a representative of the civic society.   
+
 
 #### Projects I collaborate:
 - [Dados Abertos de Feira](https://github.com/DadosAbertosDeFeira)
