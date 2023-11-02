@@ -60,7 +60,7 @@ Nowadays I am also a member of the federal government`s [Conselho da Transparên
 
 #### How to reach me
 
-- You can reach me by DM on my [Twitter](https://twitter.com/555112299jedi) or email: brunomoradv@gmail.com
+- You can reach me by DM on my [Twitter](https://twitter.com/555112299jedi) or email: brunomoradv at gmail.com
 
 <!--
 **jedibruno/jedibruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
