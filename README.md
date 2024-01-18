@@ -23,7 +23,7 @@ Nowadays I am also a member of the federal government`s [Conselho da Transparên
 - Consumer Law
 
 #### I'currently learning:
-- Java, Python, Git and SQL;
+- Java, Python, Django, Git and SQL;
 - Set Theory and other mathematical topics applied to computation;
 - Information management and governance;
 
@@ -45,6 +45,15 @@ Nowadays I am also a member of the federal government`s [Conselho da Transparên
   <tr>
     <td>SQL </td>
     <td>Newbie </td>
+  </tr>
+    <tr>
+    <td>Django </td>
+    <td>Begginer </td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Git </td>
+    <td>Adequate </td>
   </tr>
 </table> 
 
